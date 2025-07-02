@@ -6,7 +6,6 @@
 To install gator you can use:
 ```
 go install github.com/Dass33/gator
-
 ```
 
 Config file for gator has to be set up in home directory and named .gatorconfig.json
@@ -17,6 +16,7 @@ Example of config file:
 
 ##Commands available
 - login
+    - logins user in
 - register
     - adds new user
 - reset
