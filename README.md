@@ -1,5 +1,5 @@
-#Gator
-##To run gator you need these installed:
+# Gator
+## To run gator you need these installed:
 - postgres (used to store posts from the feeds)
 - go (to build the project)
 
@@ -14,7 +14,7 @@ Example of config file:
 {"db_url":"postgres://postgres:postgres@localhost:5432/gator?sslmode=disable","current_user_name":"USER"}
 ```
 
-##Commands available
+## Commands available
 - login
     - logins user in
 - register
